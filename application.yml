@@ -11,3 +11,4 @@ order_service:
 
 hello:
   test: test
+  test2: test
