@@ -15,3 +15,6 @@ hello:
 
 hello2:
   test: test
+
+test:
+  greeting: 테스트 완료
