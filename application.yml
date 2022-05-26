@@ -8,13 +8,8 @@ gateway:
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
-
-hello:
-  test: test
-  test2: test
-
-hello2:
-  test: test
+  exception:
+    order_is_empty: 주문이 존재하지 않습니다.
 
 test:
   greeting: 테스트 완료
